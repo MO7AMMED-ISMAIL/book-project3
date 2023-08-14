@@ -32,6 +32,7 @@ header{
     position: absolute;
     top: -40px;
     left: 35%;
+    width: 80px;
 }
 
 
@@ -43,4 +44,5 @@ header{
 footer{
     min-height: 100vh;
     text-align: center;
+    
 }
